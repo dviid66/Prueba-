@@ -1,0 +1,3 @@
+codigo,archivo_post,archivo_story,ubicaciones,conjunto,nombre_anuncio,destinatario,ocasion,angulo,texto_principal,texto_principal_B,titulo,descripcion,cta,url
+C001,C001_post.jpg,C001_story.jpg,feed+stories,CJ_MAMA,AD_C001_recuerdo,mama,dia de la madre,recuerdo,"Ejemplo de gancho aquí.\nSegunda línea con el beneficio.","Ejemplo de variante B con otro ángulo.",Título de ejemplo,Descripción,SHOP_NOW,https://tu-web.com
+C002,C002_post.jpg,,feed,CJ_PAREJA,AD_C002_emocion,pareja,aniversario,emocion,"Ejemplo de gancho aquí.","Ejemplo de variante B.",Título de ejemplo,Descripción,SHOP_NOW,https://tu-web.com
